@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yama/static/css/main.e06b35d8.chunk.css",
+    "main.js": "/yama/static/js/main.caa35df9.chunk.js",
+    "main.js.map": "/yama/static/js/main.caa35df9.chunk.js.map",
+    "runtime-main.js": "/yama/static/js/runtime-main.72c26e37.js",
+    "runtime-main.js.map": "/yama/static/js/runtime-main.72c26e37.js.map",
+    "static/css/2.e8a9e27e.chunk.css": "/yama/static/css/2.e8a9e27e.chunk.css",
+    "static/js/2.2b1ce886.chunk.js": "/yama/static/js/2.2b1ce886.chunk.js",
+    "static/js/2.2b1ce886.chunk.js.map": "/yama/static/js/2.2b1ce886.chunk.js.map",
+    "index.html": "/yama/index.html",
+    "static/css/2.e8a9e27e.chunk.css.map": "/yama/static/css/2.e8a9e27e.chunk.css.map",
+    "static/css/main.e06b35d8.chunk.css.map": "/yama/static/css/main.e06b35d8.chunk.css.map",
+    "static/js/2.2b1ce886.chunk.js.LICENSE.txt": "/yama/static/js/2.2b1ce886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72c26e37.js",
+    "static/css/2.e8a9e27e.chunk.css",
+    "static/js/2.2b1ce886.chunk.js",
+    "static/css/main.e06b35d8.chunk.css",
+    "static/js/main.caa35df9.chunk.js"
+  ]
+}
