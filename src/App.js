@@ -10,7 +10,7 @@ const POPULAR_API =
 	'https://api.themoviedb.org/3/movie/popular?api_key=7953178cf3f206567f7b3ea5f2942f01'
 
 // const SEARCH_MOVIES =
-// 	'https://api.themoviedb.org/3/search/movie?api_key=7953178cf3f206567f7b3ea5f2942f01&language=en-US&query='
+// 	'https://api.themoviedb.org/3/search/movie?api_key=REACT_APP_API_KEY&language=en-US&query='
 
 const App = () => {
 	const [movies, setMovies] = useState([])
