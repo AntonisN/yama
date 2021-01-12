@@ -13,5 +13,7 @@ You will also see any lint errors in the console.
 ### `Todo`
 
 -More App Functionality (Search,Trending,Sorting etc)
+
 -Add to favorites
+
 -UI
