@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 
 const POPULAR_API =
-	'http://api.themoviedb.org/3/movie/popular?api_key=7953178cf3f206567f7b3ea5f2942f01'
+	'https://api.themoviedb.org/3/movie/popular?api_key=7953178cf3f206567f7b3ea5f2942f01'
 
 // const SEARCH_MOVIES =
 // 	'https://api.themoviedb.org/3/search/movie?api_key=7953178cf3f206567f7b3ea5f2942f01&language=en-US&query='
